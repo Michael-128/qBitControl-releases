@@ -7,12 +7,12 @@
     "website": "https://github.com/Michael-128",
     "tintColor": "#449FFF",
     "featuredApps": [
-        "com.MikeMichael.qBitControl"
+        "com.MikeMichael225.qBitControl"
     ],
     "apps": [
         {
             "name": "qBitControl",
-            "bundleIdentifier": "com.MikeMichael.qBitControl",
+            "bundleIdentifier": "com.MikeMichael225.qBitControl",
             "developerName": "Michael-128",
             "subtitle": "Remote client for qBittorrent.",
             "localizedDescription": "qBitControl provides an alternative to qBittorrent's WebUI, offering a better experience for mobile users.",
