@@ -17,7 +17,7 @@
             "developerName": "Michael-128",
             "subtitle": "Remote client for qBittorrent.",
             "localizedDescription": "qBitControl provides an alternative to qBittorrent's WebUI, offering a better experience for mobile users.",
-            "iconURL": "https://example.com/myapp_icon.png",
+            "iconURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
             "tintColor": "#449FFF",
             "category": "utilities",
             "screenshots": [
@@ -45,8 +45,7 @@
                         "usageDescription": "qBitControl uses the local network to communicate with qBittorrent's API."
                     }
                 ]
-            },
-            "patreon": {}
+            }
         }
     ],
     "news": []
