@@ -13,6 +13,7 @@
         {
             "name": "qBitControl",
             "bundleIdentifier": "com.MikeMichael225.qBitControl",
+            "marketplaceID": "6503435272",
             "developerName": "Michael-128",
             "subtitle": "Remote client for qBittorrent.",
             "localizedDescription": "qBitControl provides an alternative to qBittorrent's WebUI, offering a better experience for mobile users.",
