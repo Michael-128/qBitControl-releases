@@ -28,7 +28,8 @@
                     "date": "2024-06-06",
                     "localizedDescription": "First AltStore release!",
                     "downloadURL": "https://github.com/Michael-128/qBitControl-releases/raw/main/ipas/1.1.0.ipa",
-                    "size": 1652,
+                    "size": 1652357,
+                    "sha256": "e0a6c2001d3e7cb5cca9e8115f5411d6c93c0f7516044b9254a38689d8578203",
                     "minOSVersion": "16.0"
                 }
             ],
