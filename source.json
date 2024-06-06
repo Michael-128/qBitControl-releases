@@ -29,6 +29,7 @@
             "versions": [
                 {
                     "version": "1.1",
+                    "buildVersion": "5",
                     "date": "2024-06-06",
                     "localizedDescription": "First AltStore release!",
                     "downloadURL": "https://github.com/Michael-128/qBitControl-releases/raw/main/ipas/1.1.0.ipa",
