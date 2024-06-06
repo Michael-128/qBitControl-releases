@@ -7,12 +7,12 @@
     "website": "https://github.com/Michael-128",
     "tintColor": "#449FFF",
     "featuredApps": [
-        "com.MikeMichael225.qBitControl"
+        "MikeMichael225.qBitControl"
     ],
     "apps": [
         {
             "name": "qBitControl",
-            "bundleIdentifier": "com.MikeMichael225.qBitControl",
+            "bundleIdentifier": "MikeMichael225.qBitControl",
             "marketplaceID": "6503435272",
             "developerName": "Michael-128",
             "subtitle": "Remote client for qBittorrent.",
@@ -37,7 +37,15 @@
                     "minOSVersion": "16.0"
                 }
             ],
-            "appPermissions": {},
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": [
+                    {
+                        "name": "LocalNetwork",
+                        "usageDescription": "qBitControl uses the local network to communicate with qBittorrent's API."
+                    }
+                ]
+            },
             "patreon": {}
         }
     ],
