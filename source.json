@@ -1,0 +1,43 @@
+{
+    "name": "Michael-128",
+    "subtitle": "A source for qBitControl.",
+    "description": "Welcome to my source! Here you'll find qBitControl, and my future apps.",
+    "iconURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
+    "headerURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
+    "website": "https://github.com/Michael-128",
+    "tintColor": "#449FFF",
+    "featuredApps": [
+        "com.MikeMichael.qBitControl"
+    ],
+    "apps": [
+        {
+            "name": "qBitControl",
+            "bundleIdentifier": "com.MikeMichael.qBitControl",
+            "developerName": "Michael-128",
+            "subtitle": "Remote client for qBittorrent.",
+            "localizedDescription": "qBitControl provides an alternative to qBittorrent's WebUI, offering a better experience for mobile users.",
+            "iconURL": "https://example.com/myapp_icon.png",
+            "tintColor": "#449FFF",
+            "category": "utilities",
+            "screenshots": [
+                "https://private-user-images.githubusercontent.com/116978510/293274830-04fa9256-e5dc-420c-8709-79064bb82044.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc2Njg0NjIsIm5iZiI6MTcxNzY2ODE2MiwicGF0aCI6Ii8xMTY5Nzg1MTAvMjkzMjc0ODMwLTA0ZmE5MjU2LWU1ZGMtNDIwYy04NzA5LTc5MDY0YmI4MjA0NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwNlQxMDAyNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZDk5MmFlNTZkZTIzMjM5ZWE4ZTFkZTkwOTdjN2U5MWExZTIzNDcyMGZmMDdhNGZlZGZlY2YwODg1NTkzM2ZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.rXZJIiRfRLg68oY746KEDjF6bYkfLw_clOVz166hFFU",
+                "https://private-user-images.githubusercontent.com/116978510/293274859-02633a00-b647-4898-9edb-d4b8b89d4a88.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc2Njg0NjIsIm5iZiI6MTcxNzY2ODE2MiwicGF0aCI6Ii8xMTY5Nzg1MTAvMjkzMjc0ODU5LTAyNjMzYTAwLWI2NDctNDg5OC05ZWRiLWQ0YjhiODlkNGE4OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwNlQxMDAyNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOTE1NzcyZWFhODVhODVmZTZhZDQ1ZjhjZWY4ZDg4NWRhNzkwODlhN2U0NDU5Mjk0YjE0ZWQ4NzAwYzA2ZTFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.yTTqAcgE4mBdKiB7yg6UlHWGvCwwmTvPtG6mu85yg3c",
+                "https://private-user-images.githubusercontent.com/116978510/293274865-e09a2508-56c7-41b3-91ce-d8e4c7639537.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc2Njg0NjIsIm5iZiI6MTcxNzY2ODE2MiwicGF0aCI6Ii8xMTY5Nzg1MTAvMjkzMjc0ODY1LWUwOWEyNTA4LTU2YzctNDFiMy05MWNlLWQ4ZTRjNzYzOTUzNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwNlQxMDAyNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNjcwOTg0NzJkMDJlMmM5MmMzNTFlMjY4YzI5NzZlNzVkOTE3MTBiOWZkOGJkNjgxY2Y4ODFhZjY0YjZkMWMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.WIX5Y88i2Y5HTR95srTIZKcjhKwQEWBe0OhToP96-UI",
+                "https://private-user-images.githubusercontent.com/116978510/293274868-34cdfe91-0bcb-40ed-8bf5-3d3428567e10.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc2Njg0NjIsIm5iZiI6MTcxNzY2ODE2MiwicGF0aCI6Ii8xMTY5Nzg1MTAvMjkzMjc0ODY4LTM0Y2RmZTkxLTBiY2ItNDBlZC04YmY1LTNkMzQyODU2N2UxMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwNlQxMDAyNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMjUzZjQ3Nzc4ZjIzMjZmMzlhMzFmZTZiMmFjMDNhMWEwYmMzYWZmZmI1MjFmNTA3ZjgwYjljMDNjMzBmZjY4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.17oTbOWvNUljbCJUlLFz2z5VxTFNroaUWR2hI8mX_gU"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2024-06-06",
+                    "localizedDescription": "First AltStore release!",
+                    "downloadURL": "",
+                    "size": 1652,
+                    "minOSVersion": "16.0"
+                }
+            ],
+            "appPermissions": {},
+            "patreon": {}
+        }
+    ],
+    "news": []
+}
