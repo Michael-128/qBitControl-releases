@@ -1,10 +1,11 @@
 {
     "name": "Michael-128",
-    "subtitle": "A source for qBitControl.",
+    "subtitle": "A source for qBitControl, and my future apps.",
     "description": "Welcome to my source! Here you'll find qBitControl, and my future apps.",
     "iconURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
     "headerURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
     "website": "https://github.com/Michael-128",
+    "patreonURL": "https://www.patreon.com/michael128",
     "tintColor": "#449FFF",
     "featuredApps": [
         "MikeMichael225.qBitControl"
@@ -16,15 +17,19 @@
             "marketplaceID": "6503435272",
             "developerName": "Michael-128",
             "subtitle": "Remote client for qBittorrent.",
-            "localizedDescription": "qBitControl provides an alternative to qBittorrent's WebUI, offering a better experience for mobile users.",
+            "localizedDescription": "qBitControl is the definitive remote client for managing your qBittorrent downloads on iOS devices. With qBitControl, you can effortlessly add torrents, browse files, monitor your download progress, and manage your torrents, all while enjoying real-time statistics and a native iOS user interface.",
             "iconURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
             "tintColor": "#449FFF",
             "category": "utilities",
-            "screenshots": [],
+            "screenshots": [
+                "https://raw.githubusercontent.com/Michael-128/qBitControl-releases/main/screenshots/1.1.0/sc1.png",
+                "https://raw.githubusercontent.com/Michael-128/qBitControl-releases/main/screenshots/1.1.0/sc2.png",
+                "https://raw.githubusercontent.com/Michael-128/qBitControl-releases/main/screenshots/1.1.0/sc3.png",
+                "https://raw.githubusercontent.com/Michael-128/qBitControl-releases/main/screenshots/1.1.0/sc4.png"
+            ],
             "versions": [
                 {
                     "version": "1.1",
-                    "buildVersion": "5",
                     "date": "2024-06-06",
                     "localizedDescription": "First AltStore release!",
                     "downloadURL": "https://github.com/Michael-128/qBitControl-releases/raw/main/ipas/1.1.0.ipa",
@@ -33,8 +38,6 @@
                     "minOSVersion": "16.0"
                 }
             ],
-            "version": "1.1",
-            "versionDate": "2024-06-06",
             "appPermissions": {
                 "entitlements": [],
                 "privacy": [
@@ -43,6 +46,9 @@
                         "usageDescription": "qBitControl uses the local network to communicate with qBittorrent's API."
                     }
                 ]
+            },
+            "patreon": {
+                "pledge": 3
             }
         }
     ],
