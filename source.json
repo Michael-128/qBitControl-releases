@@ -28,6 +28,17 @@
                 "https://raw.githubusercontent.com/Michael-128/qBitControl-releases/main/screenshots/1.1.0/sc4.png"
             ],
             "versions": [
+
+                
+                {
+                    "version": "1.2",
+                    "date": "2024-07-28",
+                    "buildVersion": "6",
+                    "localizedDescription": "New:\n- Added Torrent Priority Management\n- Added Sequential Download Option\n- Added MacCatalyst support (by: @vit9696)\n- Added Polish & Japanese Localizations\n- Allowed HTTP connections over the internet\n\nFixed:\n- Fixed incorrect ratio bug on stats page\n- Refactored a lot of code\n- Fix category save path not updating (by: @narenh)",
+                    "downloadURL": "https://michael-128.github.io/qBitControl-releases/ADP",
+                    "size": 2150621,
+                    "minOSVersion": "16.0"
+                },
                 {
                     "version": "1.1",
                     "date": "2024-06-06",
