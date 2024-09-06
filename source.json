@@ -28,14 +28,21 @@
                 "https://raw.githubusercontent.com/Michael-128/qBitControl-releases/main/screenshots/1.1.0/sc4.png"
             ],
             "versions": [
-
-                
+                {
+                    "version": "1.2.1",
+                    "date": "2024-09-03",
+                    "buildVersion": "7",
+                    "localizedDescription": "New:\n- Improved 'Stats' View\n- Added 'About' Section\n\nFixed:\n- Torrent availability is now displayed correctly\n- Fixed password encoding",
+                    "downloadURL": "https://michael-128.github.io/qBitControl-releases/ADPS/1.2.1",
+                    "size": 2165673,
+                    "minOSVersion": "16.0"
+                },
                 {
                     "version": "1.2",
                     "date": "2024-07-28",
                     "buildVersion": "6",
                     "localizedDescription": "New:\n- Added Torrent Priority Management\n- Added Sequential Download Option\n- Added MacCatalyst support (by: @vit9696)\n- Added Polish & Japanese Localizations\n- Allowed HTTP connections over the internet\n\nFixed:\n- Fixed incorrect ratio bug on stats page\n- Refactored a lot of code\n- Fix category save path not updating (by: @narenh)",
-                    "downloadURL": "https://michael-128.github.io/qBitControl-releases/ADP",
+                    "downloadURL": "https://michael-128.github.io/qBitControl-releases/ADPS/1.2",
                     "size": 2150621,
                     "minOSVersion": "16.0"
                 },
@@ -44,7 +51,7 @@
                     "date": "2024-06-06",
                     "buildVersion": "5",
                     "localizedDescription": "First AltStore release!",
-                    "downloadURL": "https://michael-128.github.io/qBitControl-releases/ADP",
+                    "downloadURL": "https://michael-128.github.io/qBitControl-releases/ADPS/1.1",
                     "size": 1652357,
                     "sha256": "e0a6c2001d3e7cb5cca9e8115f5411d6c93c0f7516044b9254a38689d8578203",
                     "minOSVersion": "16.0"
