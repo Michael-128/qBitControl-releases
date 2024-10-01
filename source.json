@@ -29,6 +29,15 @@
             ],
             "versions": [
                 {
+                    "version": "1.2.2",
+                    "date": "2024-10-01",
+                    "buildVersion": "9",
+                    "localizedDescription": "New:\n- Added Server Editing\n\nFixed:\n- Disabled Category Path Auto-Fill if Automatic Torrent Management is Enabled\n- Fixed Compatibility for Older qBittorrent Clients",
+                    "downloadURL": "https://michael-128.github.io/qBitControl-releases/ADPS/1.2.2",
+                    "size": 2141712,
+                    "minOSVersion": "16.0"
+                },
+                {
                     "version": "1.2.1",
                     "date": "2024-09-03",
                     "buildVersion": "7",
