@@ -1,0 +1,55 @@
+{
+    "name": "Michael-128",
+    "subtitle": "A source for qBitControl, and my future apps.",
+    "description": "Welcome to my source! Here you'll find qBitControl, and my future apps.",
+    "iconURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
+    "headerURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
+    "website": "https://github.com/Michael-128",
+    "patreonURL": "https://www.patreon.com/michael128",
+    "tintColor": "#449FFF",
+    "featuredApps": [
+        "MikeMichael225.qBitControl"
+    ],
+    "apps": [
+        {
+            "name": "qBitControl",
+            "bundleIdentifier": "MikeMichael225.qBitControl",
+            "developerName": "Michael-128",
+            "subtitle": "Remote client for qBittorrent.",
+            "localizedDescription": "qBitControl is the definitive remote client for managing your qBittorrent downloads on iOS devices. With qBitControl, you can effortlessly add torrents, browse files, monitor your download progress, and manage your torrents, all while enjoying real-time statistics and a native iOS user interface.",
+            "iconURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
+            "tintColor": "#449FFF",
+            "category": "utilities",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Michael-128/qBitControl-releases/main/screenshots/1.1.0/sc1.png",
+                "https://raw.githubusercontent.com/Michael-128/qBitControl-releases/main/screenshots/1.1.0/sc2.png",
+                "https://raw.githubusercontent.com/Michael-128/qBitControl-releases/main/screenshots/1.1.0/sc3.png",
+                "https://raw.githubusercontent.com/Michael-128/qBitControl-releases/main/screenshots/1.1.0/sc4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.2",
+                    "date": "2024-10-01",
+                    "buildVersion": "9",
+                    "localizedDescription": "New:\n- Added Server Editing\n\nFixed:\n- Disabled Category Path Auto-Fill if Automatic Torrent Management is Enabled\n- Fixed Compatibility for Older qBittorrent Clients",
+                    "downloadURL": "https://michael-128.github.io/qBitControl-releases/IPAS/1.2.2/qBitControl.ipa",
+                    "size": 2141712,
+                    "minOSVersion": "16.0"
+                }
+          ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": [
+                    {
+                        "name": "LocalNetwork",
+                        "usageDescription": "qBitControl uses the local network to communicate with qBittorrent's API."
+                    }
+                ]
+            },
+            "patreon": {
+                "pledge": 2
+            }
+        }
+    ],
+    "news": []
+}
