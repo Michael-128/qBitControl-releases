@@ -34,7 +34,7 @@
                     "date": "2025-02-14",
                     "buildVersion": "14",
                     "localizedDescription": "New:\n• Added New Category & Tag Selection System\n• Added RSS Feed & Folder Renaming & Deleting\n• Updated Translations\n\nImprovements:\n• Enhance Tips when Adding Server (by: @MrNocole in #62)\n• Improve Naming to Match qBitttorrent\n\nFixes:\n• Fixed Pause Option for qBittorrent 5.0.X in 'Torrent Add Sheet'",
-                    "downloadURL": "https://michael-128.github.io/qBitControl-releases/ADPS/1.3.1",
+                    "downloadURL": "https://michael-128.github.io/qBitControl-releases/ADPS/1.3.2",
                     "size": 14656788,
                     "minOSVersion": "16.0"
                 },
