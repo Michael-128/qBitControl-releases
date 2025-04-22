@@ -32,7 +32,7 @@
                     "version": "1.3.3",
                     "date": "2025-04-21",
                     "buildVersion": "17",
-                    "localizedDescription": "New:\n• Add Search Functionality to RSS Tab\nImprovements:\n• Improve Charts in Stats Tab\nFixes:\n• Fix Translation Related Bugs\n• Update Translation\n• Add a Missing Uncategorized Option in Category Selection View",
+                    "localizedDescription": "New:\n• Add Search Functionality to RSS Tab\n\nImprovements:\n• Improve Charts in Stats Tab\n\nFixes:\n• Fix Translation Related Bugs\n• Update Translation\n• Add a Missing Uncategorized Option in Category Selection View",
                     "downloadURL": "https://michael-128.github.io/qBitControl-releases/IPAS/1.3.3/qBitControl.ipa",
                     "size": 4321496,
                     "minOSVersion": "16.0"
