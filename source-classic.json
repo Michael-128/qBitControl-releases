@@ -29,6 +29,15 @@
       ],
       "versions": [
         {
+          "version": "1.4.2",
+          "date": "2026-08-23",
+          "buildVersion": "22",
+          "localizedDescription": "This release aims to fix major performance bugs for users with large torrent libraries.",
+          "downloadURL": "https://michael-128.github.io/qBitControl-releases/IPAS/1.4.2/qBitControl.ipa",
+          "size": 4792089,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.4.1",
           "date": "2026-07-23",
           "buildVersion": "21",
